@@ -2,7 +2,7 @@
 
 **UE24CS352A Machine Learning Mini-Project | Problem Statement #2**
 
-*Based on Stanford University CS229 Research: "Terrain Classification for Small Legged Robots Using Deep Learning on Tactile Data" (Daniel Choi, Michelle Thomasson)*
+*Based on Stanford University CS229 Research: "Terrain Classification for Small Legged Robots Using Deep Learning on Tactile Data" (Hojung Choi, Rachel Thomasson)*
 
 ## 📌 Executive Overview
 
